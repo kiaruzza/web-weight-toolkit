@@ -1,0 +1,104 @@
+{
+  "languages": [
+    "en",
+    "it"
+  ],
+  "documents": [
+    {
+      "it": "README.it.md",
+      "en": "README.md"
+    },
+    {
+      "it": "ORIGINE.md",
+      "en": "ORIGIN.md"
+    },
+    {
+      "it": "docs/README.md",
+      "en": "docs/en/README.md"
+    },
+    {
+      "it": "docs/CHECKLIST.md",
+      "en": "docs/en/CHECKLIST.md"
+    },
+    {
+      "it": "docs/FONTI.md",
+      "en": "docs/en/SOURCES.md"
+    },
+    {
+      "it": "docs/GLOSSARIO.md",
+      "en": "docs/en/GLOSSARY.md"
+    },
+    {
+      "it": "docs/GUIDA.md",
+      "en": "docs/en/GUIDE.md"
+    },
+    {
+      "it": "docs/STRUMENTI.md",
+      "en": "docs/en/TOOLS.md"
+    },
+    {
+      "it": "docs/guide/ACCESSIBILITA.md",
+      "en": "docs/en/guide/ACCESSIBILITY.md"
+    },
+    {
+      "it": "docs/guide/AUTOMAZIONE.md",
+      "en": "docs/en/guide/AUTOMATION.md"
+    },
+    {
+      "it": "docs/guide/CARBONIO.md",
+      "en": "docs/en/guide/CARBON.md"
+    },
+    {
+      "it": "docs/guide/ECOINDEX.md",
+      "en": "docs/en/guide/ECOINDEX.md"
+    },
+    {
+      "it": "docs/guide/HOSTING.md",
+      "en": "docs/en/guide/HOSTING.md"
+    },
+    {
+      "it": "docs/guide/MEDIA-FONT.md",
+      "en": "docs/en/guide/MEDIA-FONTS.md"
+    },
+    {
+      "it": "docs/guide/METODO.md",
+      "en": "docs/en/guide/METHOD.md"
+    },
+    {
+      "it": "docs/guide/PERFORMANCE.md",
+      "en": "docs/en/guide/PERFORMANCE.md"
+    },
+    {
+      "it": "docs/guide/PROGETTAZIONE.md",
+      "en": "docs/en/guide/DESIGN.md"
+    },
+    {
+      "it": "docs/guide/WSG.md",
+      "en": "docs/en/guide/WSG.md"
+    },
+    {
+      "it": "templates/AUDIT.md",
+      "en": "templates/en/AUDIT.md"
+    },
+    {
+      "it": "templates/DECISIONE-JAVASCRIPT.md",
+      "en": "templates/en/JAVASCRIPT-DECISION.md"
+    },
+    {
+      "it": "templates/DICHIARAZIONE.md",
+      "en": "templates/en/STATEMENT.md"
+    },
+    {
+      "it": "templates/ECOINDEX.md",
+      "en": "templates/en/ECOINDEX.md"
+    },
+    {
+      "it": "templates/REVISIONE-WSG.md",
+      "en": "templates/en/WSG-REVIEW.md"
+    },
+    {
+      "it": "templates/INTERVENTI.csv",
+      "en": "templates/en/IMPROVEMENTS.csv"
+    }
+  ]
+}
